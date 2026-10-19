@@ -282,6 +282,6 @@ Claims checked per asset, status counts (current / changed / unverifiable / over
 
 - **programmatic-seo**: For building competitor pages at scale
 - **copywriting**: For writing compelling comparison copy
-- **seo-audit**: For optimizing competitor pages
+- **seo-technical**: For optimizing competitor pages
 - **schema**: For FAQ and comparison schema
 - **sales-enablement**: For battle cards and internal sales collateral, decks, and objection docs
