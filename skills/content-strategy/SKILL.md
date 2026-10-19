@@ -434,7 +434,7 @@ Visual or structured representation of how content interconnects.
 ## Related Skills
 
 - **copywriting**: For writing individual content pieces
-- **seo-audit**: For technical SEO and on-page optimization
+- **seo-technical** (pack claude-seo): For technical SEO and on-page optimization
 - **link-building**: For earning links to the content and the pages it supports
 - **ai-seo**: For optimizing content for AI search engines and getting cited by LLMs
 - **programmatic-seo**: For scaled content generation

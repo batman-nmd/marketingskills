@@ -185,7 +185,7 @@ Rate each factor 1-5:
 
 - **lead-magnets**: For downloadable content lead magnets (ebooks, checklists, templates)
 - **cro**: For optimizing the tool's landing page
-- **seo-audit**: For SEO-optimizing the tool
+- **seo-technical** (pack claude-seo): For SEO-optimizing the tool
 - **link-building**: For promoting the tool to sites that link to resources like it
 - **analytics**: For measuring tool usage
 - **emails**: For nurturing leads from the tool

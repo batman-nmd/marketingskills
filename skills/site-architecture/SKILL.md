@@ -352,7 +352,7 @@ Mermaid diagram showing page relationships and navigation zones. Use `graph TD` 
 
 - **content-strategy**: For planning what content to create and topic clusters
 - **programmatic-seo**: For building SEO pages at scale with templates and data
-- **seo-audit**: For technical SEO, on-page optimization, and indexation issues
+- **seo-technical** (pack claude-seo): For technical SEO, on-page optimization, and indexation issues
 - **cro**: For optimizing individual pages for conversion
 - **schema**: For implementing breadcrumb and site navigation structured data
 - **competitors**: For comparison page frameworks and URL patterns

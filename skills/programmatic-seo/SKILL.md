@@ -236,7 +236,7 @@ Watch for: Thin content warnings, Ranking drops, Manual actions, Crawl errors
 
 ## Related Skills
 
-- **seo-audit**: For auditing programmatic pages after launch
+- **seo-technical** (pack claude-seo): For auditing programmatic pages after launch
 - **schema**: For adding structured data
 - **site-architecture**: For page hierarchy, URL structure, and internal linking
 - **competitors**: For comparison page frameworks

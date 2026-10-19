@@ -491,7 +491,7 @@ For implementation, see the [tools registry](https://github.com/coreyhaines31/ma
 
 ## Related Skills
 
-- **seo-audit**: For traditional technical and on-page SEO audits; **link-building** for earning links and mentions on the third-party pages AI engines cite
+- **seo-technical** (pack claude-seo): For traditional technical and on-page SEO audits; **link-building** for earning links and mentions on the third-party pages AI engines cite
 - **schema**: For implementing structured data that helps AI understand your content
 - **content-strategy**: For planning what content to create
 - **competitors**: For building comparison pages that get cited
